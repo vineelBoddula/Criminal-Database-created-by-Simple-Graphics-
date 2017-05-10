@@ -1,0 +1,8 @@
+Batman 30 183 Brown batman.gif firebrick3
+Spiderman 19 183 Blue spiderman.gif chartreuse3
+daffyDuck 22 101 Black daffyDuck.gif goldenrod2
+ILay 22 119 brown batman.gif firebrick3
+Superman 30 193 Blue superman.gif chartreuse3
+LexLuthor 30 181 Black lexLuthor.gif firebrick3
+Vineel 22 191 brown batman.gif firebrick3
+BugsBunny 22 101 Black bugsBunny.gif chartreuse3
